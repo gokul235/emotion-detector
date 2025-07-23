@@ -57,7 +57,7 @@ Here’s a quick view of the working emotion detection app:
 
 ![demo](demo.png)
 
-# Authers:
+# Authors:
 Jeetu Kumar,
 Gokul N Ram,
 Hardhik Trivedi.
